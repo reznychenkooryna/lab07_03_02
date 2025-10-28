@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0420 7\\Lab_07_03_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0420 7\\Lab_07_03_02\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7BE96C-8180-4D5A-82E5-E805DD3C4D04}|Lab_07_03_02\\Lab_07_03_02.vcxproj|D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0420 7\\Lab_07_03_02\\Lab_07_03_02\\Lab_07_03_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B7BE96C-8180-4D5A-82E5-E805DD3C4D04}|Lab_07_03_02\\Lab_07_03_02.vcxproj|solutionrelative:Lab_07_03_02\\Lab_07_03_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0420 7\\Lab_07_03_02\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0420 7\\Lab_07_03_02\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-28T21:39:44.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_07_03_02.cpp",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0420 7\\Lab_07_03_02\\Lab_07_03_02\\Lab_07_03_02.cpp",
+              "RelativeDocumentMoniker": "Lab_07_03_02\\Lab_07_03_02.cpp",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0420 7\\Lab_07_03_02\\Lab_07_03_02\\Lab_07_03_02.cpp",
+              "RelativeToolTip": "Lab_07_03_02\\Lab_07_03_02.cpp",
+              "ViewState": "AgIAAGIAAAAAAAAAAADwv3QAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-28T21:39:28.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
