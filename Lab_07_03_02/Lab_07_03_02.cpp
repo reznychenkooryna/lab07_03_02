@@ -57,8 +57,7 @@ int CountRowsWithZero(int** a, const int rowCount, const int colCount, int rowNo
     return add + CountRowsWithZero(a, rowCount, colCount, rowNo + 1);
 }
 
-int ColumnSeriesLength(int** a, const int rowCount, const int colNo,
-    int rowNo, int currLen, int maxLen)
+int ColumnSeriesLength(int** a, const int rowCount, const int colNo, int rowNo, int currLen, int maxLen)
 {
     if (rowNo >= rowCount) return maxLen;
     if (a[rowNo][colNo] == a[rowNo - 1][colNo]) currLen++;
@@ -67,8 +66,7 @@ int ColumnSeriesLength(int** a, const int rowCount, const int colNo,
     return ColumnSeriesLength(a, rowCount, colNo, rowNo + 1, currLen, maxLen);
 }
 
-void FindColumnWithLongestSeries(int** a, const int rowCount, const int colCount,
-    int& bestCol, int& bestLen, int colNo)
+void FindColumnWithLongestSeries(int** a, const int rowCount, const int colCount, int& bestCol, int& bestLen, int colNo)
 {
     if (colNo >= colCount) return;
     int len = ColumnSeriesLength(a, rowCount, colNo, 1, 1, 1);
